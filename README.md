@@ -1,4 +1,4 @@
-# merge-simpson
+REMOTE
 
 Il était une fois un canard qui roulais en BMW.
 Il a grillé une priorité et renversé une famille de renards.
